@@ -32,15 +32,15 @@ Those files contain the following columns:
 
 | column                           | description                                                                                                                                                                                         |
 | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `geo_id`                         | The census geographic identifier that matches onto the territory. Read more about how this value is selected in the [Show Your Work](https://mrkup.org/wr1HV).                                      |
-| `geo_name`                       | The census geographic area name that matches onto the territory. Read more about how this value is selected in the [Show Your Work](https://mrkup.org/wr1HV).                                       |
+| `geo_id`                         | The census geographic identifier that matches onto the territory. Read more about how this value is selected in the [methodology document](https://mrkup.org/wr1HV).                                |
+| `geo_name`                       | The census geographic area name that matches onto the territory. Read more about how this value is selected in the [methodology document](https://mrkup.org/wr1HV).                                 |
 | `total_pop`                      | The total population in the census geography.                                                                                                                                                       |
 | `white_pct`                      | The percentage of census geography's population that is non-Hispanic/non-Latino White.                                                                                                              |
 | `black_pct`                      | The percentage of census geography's population that is non-Hispanic/non-Latino Black.                                                                                                              |
 | `white_tot`                      | The percentage of census geography's population count that is non-Hispanic/non-Latino White.                                                                                                        |
 | `black_tot`                      | The census geography's population count that is non-Hispanic/non-Latino Black.                                                                                                                      |
-| `generic_location_based_premium` | The location-fixed or location-adjusted base rate. Read more about this value in the [Show Your Work](https://mrkup.org/wr1HV).                                                                     |
-| `location_effect`                | The location-fixed or location-adjusted base rate indexed to the insurer's state median. Read more about this value in the [Show Your Work](https://mrkup.org/wr1HV).                               |
+| `generic_location_based_premium` | The location-fixed or location-adjusted base rate. Read more about this value in the [methodology document](https://mrkup.org/wr1HV).                                                               |
+| `location_effect`                | The location-fixed or location-adjusted base rate indexed to the insurer's state median. Read more about this value in the [methodology document](https://mrkup.org/wr1HV).                         |
 | `geometry`                       | The insurance territory's point or polygon geometry.                                                                                                                                                |
 | `median_income`                  | The median household income for the census geography.                                                                                                                                               |
 | `density`                        | The geography's total population divided by total area sourced from TIGER shape files from the U.S. Census Bureau.                                                                                  |
@@ -60,6 +60,7 @@ Those files contain the following columns:
 | `is_zcta_border`                 | This boolean representing whether Allstate gridded territory point has an adjacent territory in a different ZCTA.                                                                                   |
 | `loc_rate_div_min_nn`            | This is the Allstate territory's generic_location_based_premium divided by the lowest neighboring `generic_location_based_premium`. This value is only available in the Allstate cleaned data file. |
 | `nn_min_val`                     | This is the the lowest neighboring `generic_location_based_premium`. This value is only available in the Allstate cleaned data file.                                                                |
+
 # Reproducibility
 
 All notebooks committed have been run and display outputs.
