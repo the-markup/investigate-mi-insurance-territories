@@ -1,0 +1,11 @@
+Insurer,race,lowest density,middle low,median,middle high,highest density
+Allstate,Black,0,0,1,14,84
+Allstate,White,3,8,15,34,39
+Auto Club,Black,2,5,18,30,45
+Auto Club,White,21,27,21,17,14
+Citizens,Black,1,8,19,28,44
+Citizens,White,23,27,20,16,14
+Liberty Mutual,Black,0,0,1,5,94
+Liberty Mutual,White,3,5,8,15,69
+State Farm,Black,1,4,16,30,48
+State Farm,White,19,26,22,18,15

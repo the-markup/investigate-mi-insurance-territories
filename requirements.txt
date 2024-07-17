@@ -1,0 +1,5 @@
+openpyxl>=3.0
+whatthepatch>=1.0
+stringcase==1.2.0
+XlsxWriter==3.0.6
+geopandas>=0.13.2

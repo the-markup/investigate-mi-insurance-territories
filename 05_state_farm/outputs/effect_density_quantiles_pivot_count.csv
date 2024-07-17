@@ -1,0 +1,11 @@
+effect_quantile,lowest density,middle low,median,middle high,highest density,race,insurer
+lowest effect,268831.0,695032.0,529205.0,239458.0,102468.0,White,State Farm
+middle low,485862.0,584139.0,346691.0,180919.0,96509.0,White,State Farm
+median,511676.0,406531.0,313011.0,210089.0,135855.0,White,State Farm
+middle high,88261.0,183883.0,346875.0,467832.0,403979.0,White,State Farm
+highest effect,195.0,21623.0,59153.0,199448.0,367843.0,White,State Farm
+lowest effect,3366.0,12940.0,28244.0,16522.0,9592.0,Black,State Farm
+middle low,4764.0,12703.0,20911.0,20105.0,17165.0,Black,State Farm
+median,6595.0,10429.0,34112.0,35640.0,36131.0,Black,State Farm
+middle high,2011.0,10802.0,44565.0,69541.0,74805.0,Black,State Farm
+highest effect,38.0,4748.0,75012.0,230806.0,453782.0,Black,State Farm

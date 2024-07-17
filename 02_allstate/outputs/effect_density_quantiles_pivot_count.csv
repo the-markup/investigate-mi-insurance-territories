@@ -1,0 +1,11 @@
+effect_quantile,lowest density,middle low,median,middle high,highest density,race,insurer
+lowest effect,37053.0,101741.0,321258.0,847878.0,230526.0,White,Allstate
+middle low,75589.0,128882.0,302221.0,321372.0,235148.0,White,Allstate
+median,53849.0,201849.0,273920.0,391905.0,284088.0,White,Allstate
+middle high,65167.0,121753.0,131146.0,628605.0,541978.0,White,Allstate
+highest effect,5229.0,45497.0,114627.0,343282.0,1584309.0,White,Allstate
+lowest effect,872.0,1113.0,7672.0,49569.0,48073.0,Black,Allstate
+middle low,1738.0,1184.0,2922.0,26670.0,29811.0,Black,Allstate
+median,342.0,2054.0,7895.0,30416.0,74652.0,Black,Allstate
+middle high,482.0,2045.0,1131.0,48173.0,81722.0,Black,Allstate
+highest effect,10.0,328.0,519.0,27893.0,898572.0,Black,Allstate
