@@ -10,7 +10,7 @@ The code in this repository was used to produce and analyze the data for our inv
 
 # Notebooks
 
-This is the summary of the notebooks in the insurer directories.
+This is a summary of the notebooks in the insurer directories.
 
 ## 00(a)-extract-auto-table.ipynb
 
