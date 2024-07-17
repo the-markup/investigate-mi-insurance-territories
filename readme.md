@@ -50,17 +50,16 @@ Those files contain the following columns:
 | `is_south_8_mile`                | This is a boolean representing whether a gridded territory point is within a 1 mile buffer south of 8 mile road. This value is only available for State Farm and Allstate cleaned data files.       |
 | `bg_black_pct`                   | This is the percentage of the census block group geography's population that is non-Hispanic/non-Latino Black. This value is only available for State Farm cleaned data file.                       |
 | `bg_black_tot`                   | The census geography's population count that is non-Hispanic/non-Latino Black. This value is only available for State Farm cleaned data file.                                                       |
-| `bg_geo_id`                      | The Census block group geographic identifier that matches onto the territory. This value is only available for State Farm cleaned data file.                                                        |
+| `bg_geo_id`                      | The census block group geographic identifier that matches onto the territory. This value is only available for State Farm cleaned data file.                                                        |
 | `bg_median_income`               | The median household income for the census block group geography. This value is only available for State Farm cleaned data file.                                                                    |
 | `bg_tot_pop`                     | The total population count in census block group. This value is only available for State Farm cleaned data file.                                                                                    |
-| `bg_white_pct`                   | The percentage of population that is non-Hispanic/non-Latino White in the block group. This value is only available for State Farm cleaned data file.                                               |
+| `bg_white_pct`                   | The percentage of population that is non-Hispanic/non-Latino White in the census block group. This value is only available for State Farm cleaned data file.                                        |
 | `bg_white_tot`                   | The population count that is non-Hispanic/non-Latino White in the census block group geography. This value is only available for State Farm cleaned data file.                                      |
 | `latitude`                       | This value is the gridded territory's latitude. This value is only available in the Allstate cleaned data file.                                                                                     |
 | `longitude`                      | This value is the gridded territory's longitude. This value is only available in the Allstate cleaned data file.                                                                                    |
 | `is_zcta_border`                 | This boolean representing whether Allstate gridded territory point has an adjacent territory in a different ZCTA.                                                                                   |
 | `loc_rate_div_min_nn`            | This is the Allstate territory's generic_location_based_premium divided by the lowest neighboring `generic_location_based_premium`. This value is only available in the Allstate cleaned data file. |
 | `nn_min_val`                     | This is the the lowest neighboring `generic_location_based_premium`. This value is only available in the Allstate cleaned data file.                                                                |
-
 # Reproducibility
 
 All notebooks committed have been run and display outputs.
