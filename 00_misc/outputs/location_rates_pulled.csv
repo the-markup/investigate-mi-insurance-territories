@@ -1,0 +1,31 @@
+name,address,company,weighted_mean,rate_percentile,geo_id,geo_name,latin_pct,white_pct,black_pct,aian_pct,asian_pct,median_income,geography_factor_id,geography_type
+Alina J. Johnson ,"1474 18th Street, Detroit, MI 48216",Allstate,1537.0,99.7,860Z200US48216,ZCTA5 48216,26.3,29.9,36.7,0.1,0.7,41066.0,N4232270W08307768,coordinate
+Alina J. Johnson ,"1474 18th Street, Detroit, MI 48216",Auto Club Group,4119.0,92.2,26163521100,Census Tract 5211,0.406,0.309,0.164,0.0,0.0,,26163521100,census_tract
+Alina J. Johnson ,"1474 18th Street, Detroit, MI 48216",Liberty Mutual,18705.0,98.8,26163,"Wayne County, Michigan",6.3,48.7,37.4,0.2,3.4,57223,082,county
+Alina J. Johnson ,"1474 18th Street, Detroit, MI 48216",Progressive,1943.0,99.0,1600000US2622000,"Detroit city, Michigan",7.5,10.1,77.4,0.2,1.6,37761,83,place_name
+Alina J. Johnson ,"1474 18th Street, Detroit, MI 48216",State Farm,6469.0,99.8,26163521100,Census Tract 5211; Wayne County; Michigan,40.6,30.9,16.4,0.0,0.0,41491,0423208308,coordinate
+Sherrie Smith,"7801 Fielding St , Detroit, MI 48228",Allstate,1710.0,99.8,860Z200US48228,ZCTA5 48228,6.3,14.8,74.0,0.1,0.2,33229.0,N4235250W08324250,coordinate
+Sherrie Smith,"7801 Fielding St , Detroit, MI 48228",Auto Club Group,3289.0,89.3,26163546100,Census Tract 5461,0.044,0.07,0.837,0.0,0.0,,26163546100,census_tract
+Sherrie Smith,"7801 Fielding St , Detroit, MI 48228",Liberty Mutual,18705.0,98.8,26163,"Wayne County, Michigan",6.3,48.7,37.4,0.2,3.4,57223,082,county
+Sherrie Smith,"7801 Fielding St , Detroit, MI 48228",Progressive,1943.0,99.0,1600000US2622000,"Detroit city, Michigan",7.5,10.1,77.4,0.2,1.6,37761,83,place_name
+Sherrie Smith,"7801 Fielding St , Detroit, MI 48228",State Farm,7600.0,99.9,26163546100,Census Tract 5461; Wayne County; Michigan,4.4,7.0,83.7,0.0,0.0,39375,0423508324,coordinate
+Stephanie Jennings,"6402 Woodward Ave, Detroit, MI 48202",Allstate,1878.0,100.0,860Z200US48202,ZCTA5 48202,2.7,25.2,61.7,0.8,5.9,34244.0,N4236750W08307750,coordinate
+Stephanie Jennings,"6402 Woodward Ave, Detroit, MI 48202",Auto Club Group,4780.0,96.1,26163511900,Census Tract 5119,0.067,0.264,0.629,0.0,0.026,,26163511900,census_tract
+Stephanie Jennings,"6402 Woodward Ave, Detroit, MI 48202",Liberty Mutual,18705.0,98.8,26163,"Wayne County, Michigan",6.3,48.7,37.4,0.2,3.4,57223,082,county
+Stephanie Jennings,"6402 Woodward Ave, Detroit, MI 48202",Progressive,1943.0,99.0,1600000US2622000,"Detroit city, Michigan",7.5,10.1,77.4,0.2,1.6,37761,83,place_name
+Stephanie Jennings,"6402 Woodward Ave, Detroit, MI 48202",State Farm,7586.0,99.9,26163511900,Census Tract 5119; Wayne County; Michigan,6.7,26.4,62.9,0.0,2.6,15662,0423708307,coordinate
+Clarissa Williams,"14947 Tracey St, Detroit, MI 48227",Allstate,1872.0,100.0,860Z200US48227,ZCTA5 48227,0.9,1.4,95.3,0.1,0.1,33579.0,N4239750W08318250,coordinate
+Clarissa Williams,"14947 Tracey St, Detroit, MI 48227",Auto Club Group,5048.0,99.6,26163537100,Census Tract 5371,0.014,0.02,0.961,0.0,0.0,,26163537100,census_tract
+Clarissa Williams,"14947 Tracey St, Detroit, MI 48227",Liberty Mutual,18705.0,98.8,26163,"Wayne County, Michigan",6.3,48.7,37.4,0.2,3.4,57223,082,county
+Clarissa Williams,"14947 Tracey St, Detroit, MI 48227",Progressive,1943.0,99.0,1600000US2622000,"Detroit city, Michigan",7.5,10.1,77.4,0.2,1.6,37761,83,place_name
+Clarissa Williams,"14947 Tracey St, Detroit, MI 48227",State Farm,7400.0,99.9,26163537100,Census Tract 5371; Wayne County; Michigan,1.4,2.0,96.1,0.0,0.0,32663,0424008318,coordinate
+Stefany Washington,"6384 Mackenzie St, Detroit, MI 48204",Allstate,1725.0,99.8,860Z200US48204,ZCTA5 48204,3.7,3.5,88.0,0.6,0.1,29224.0,N4235250W08313750,coordinate
+Stefany Washington,"6384 Mackenzie St, Detroit, MI 48204",Auto Club Group,4780.0,96.1,26163534600,Census Tract 5346,0.167,0.044,0.781,0.0,0.0,,26163534600,census_tract
+Stefany Washington,"6384 Mackenzie St, Detroit, MI 48204",Liberty Mutual,18705.0,98.8,26163,"Wayne County, Michigan",6.3,48.7,37.4,0.2,3.4,57223,082,county
+Stefany Washington,"6384 Mackenzie St, Detroit, MI 48204",Progressive,1943.0,99.0,1600000US2622000,"Detroit city, Michigan",7.5,10.1,77.4,0.2,1.6,37761,83,place_name
+Stefany Washington,"6384 Mackenzie St, Detroit, MI 48204",State Farm,8030.0,99.9,26163534800,Census Tract 5348; Wayne County; Michigan,11.3,3.0,85.3,0.0,0.0,27284,0423608314,coordinate
+Sonja,"6734 Heyden, Detroit, MI 48228",Allstate,1406.0,99.6,860Z200US48127,ZCTA5 48127,3.0,84.6,7.8,0.0,2.0,59535.0,N4233750W08324250,coordinate
+Sonja,"6734 Heyden, Detroit, MI 48228",Auto Club Group,3210.0,88.8,26163545800,Census Tract 5458,0.187,0.264,0.497,0.0,0.0,,26163545800,census_tract
+Sonja,"6734 Heyden, Detroit, MI 48228",Liberty Mutual,18705.0,98.8,26163,"Wayne County, Michigan",6.3,48.7,37.4,0.2,3.4,57223,082,county
+Sonja,"6734 Heyden, Detroit, MI 48228",Progressive,1943.0,99.0,1600000US2622000,"Detroit city, Michigan",7.5,10.1,77.4,0.2,1.6,37761,83,place_name
+Sonja,"6734 Heyden, Detroit, MI 48228",State Farm,7436.0,99.9,26163571500,Census Tract 5715; Wayne County; Michigan,7.6,78.9,9.2,0.1,2.2,46711,0423408324,coordinate

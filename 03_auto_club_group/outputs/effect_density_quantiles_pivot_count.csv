@@ -1,0 +1,11 @@
+effect_quantile,lowest density,middle low,median,middle high,highest density,race,insurer
+lowest effect,486640.0,637421.0,363996.0,222442.0,115050.0,White,Auto Club
+middle low,415925.0,581107.0,463431.0,247423.0,178174.0,White,Auto Club
+median,256747.0,436516.0,457269.0,352805.0,232372.0,White,Auto Club
+middle high,392424.0,325572.0,204959.0,273207.0,260328.0,White,Auto Club
+highest effect,12005.0,23139.0,53699.0,149440.0,252052.0,White,Auto Club
+lowest effect,5829.0,14517.0,22161.0,28868.0,19754.0,Black,Auto Club
+middle low,5689.0,19503.0,43083.0,32291.0,40240.0,Black,Auto Club
+median,3025.0,16322.0,38237.0,42778.0,26468.0,Black,Auto Club
+middle high,5960.0,13074.0,42881.0,56324.0,85084.0,Black,Auto Club
+highest effect,104.0,9628.0,91197.0,247020.0,436881.0,Black,Auto Club

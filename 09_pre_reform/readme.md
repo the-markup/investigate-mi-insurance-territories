@@ -1,0 +1,1 @@
+These subdirectories contain the data and code for the prereform territory table extractions. The analysis of the prereform data is run in the insurers' respective analysis notebooks. 

@@ -1,0 +1,11 @@
+effect_quantile,lowest density,middle low,median,middle high,highest density,race,insurer
+lowest effect,85507,126609,35161,453038,1063510,White,Liberty Mutual
+middle low,40734,49307,96124,0,281324,White,Liberty Mutual
+median,6834,24244,233029,299849,889093,White,Liberty Mutual
+middle high,67187,103202,141662,222439,139170,White,Liberty Mutual
+highest effect,0,95683,86602,139419,2714413,White,Liberty Mutual
+lowest effect,3682,2185,2339,27617,114497,Black,Liberty Mutual
+middle low,248,316,683,0,39595,Black,Liberty Mutual
+median,45,132,4666,26146,87669,Black,Liberty Mutual
+middle high,1161,723,1276,5906,3274,Black,Liberty Mutual
+highest effect,0,1951,1432,3078,1018297,Black,Liberty Mutual

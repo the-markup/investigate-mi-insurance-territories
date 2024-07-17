@@ -1,0 +1,26 @@
+Insurer,Density,lowest effect,middle low,median,middle high,highest effect
+Allstate,Lowest density,15.5,28.5,25.9,28,2.1
+Allstate,Lower density,17.6,24.4,29.5,19.7,8.8
+Allstate,Middle density,25,27.6,21.9,12,13.5
+Allstate,Higher density,33.7,13.5,13.5,23.3,16.1
+Allstate,Highest density,8.3,6.2,8.8,17.1,59.6
+Auto Club,Lowest density,0.3552,0.2327,0.1616,0.2238,0.0266
+Auto Club,Lower density,0.2758,0.2633,0.2402,0.1815,0.0391
+Auto Club,Middle density,0.1741,0.2611,0.2575,0.1456,0.1616
+Auto Club,Higher density,0.137,0.1548,0.1886,0.1957,0.3238
+Auto Club,Highest density,0.0746,0.1243,0.1474,0.2114,0.4423
+Citizens,Lowest density,0.216,0.302,0.368,0.103,0.01
+Citizens,Lower density,0.329,0.257,0.218,0.15,0.046
+Citizens,Middle density,0.246,0.181,0.155,0.237,0.181
+Citizens,Higher density,0.146,0.147,0.138,0.267,0.302
+Citizens,Highest density,0.063,0.112,0.121,0.243,0.461
+Liberty Mutual,Lowest density,0.41,0.18,0.06,0.35,0
+Liberty Mutual,Lower density,0.25,0.19,0.06,0.25,0.25
+Liberty Mutual,Middle density,0.06,0.24,0.29,0.24,0.18
+Liberty Mutual,Higher density,0.38,0,0.25,0.25,0.12
+Liberty Mutual,Highest density,0.35,0.12,0.24,0.06,0.24
+State Farm,Lowest density,17.4,33,34.2,10.2,5.2
+State Farm,Lower density,34.3,29.7,22.3,11.7,2.1
+State Farm,Middle density,28.3,19,19.7,21,12
+State Farm,Higher density,13.4,11.7,13.9,29.2,31.8
+State Farm,Highest density,6.8,6.6,9.9,27.8,49

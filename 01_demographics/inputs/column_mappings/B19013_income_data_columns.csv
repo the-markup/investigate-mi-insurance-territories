@@ -1,0 +1,5 @@
+KEY,NAME,RENAME
+GEO_ID,Geography,geo_id
+NAME,Geographic Area Name,geo_name
+B19013_001E,Estimate!!Median household income in the past 12 months (in 2022 inflation-adjusted dollars),median_income
+B19013_001M,Margin of Error!!Median household income in the past 12 months (in 2022 inflation-adjusted dollars),

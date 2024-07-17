@@ -1,0 +1,11 @@
+effect_quantile,lowest density,middle low,median,middle high,highest density,race,insurer
+lowest effect,370334.0,701706.0,438120.0,226924.0,96316.0,White,Citizens
+middle low,497825.0,564649.0,324877.0,210205.0,171644.0,White,Citizens
+median,635670.0,456964.0,275518.0,205371.0,156422.0,White,Citizens
+middle high,193697.0,261295.0,374585.0,390087.0,333108.0,White,Citizens
+highest effect,117.0,15591.0,76081.0,140708.0,276317.0,White,Citizens
+lowest effect,3635.0,21299.0,24805.0,13068.0,8227.0,Black,Citizens
+middle low,5864.0,19988.0,31985.0,22778.0,26679.0,Black,Citizens
+median,7429.0,24227.0,28413.0,36983.0,33601.0,Black,Citizens
+middle high,2366.0,29197.0,59802.0,91856.0,86583.0,Black,Citizens
+highest effect,109.0,17186.0,105291.0,213976.0,431564.0,Black,Citizens

@@ -1,0 +1,10 @@
+services:
+  jupyter:
+    build:
+      context: .
+    volumes:
+      - ./:/home/jovyan/work
+    ports:
+      - 8888:8888
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
