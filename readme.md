@@ -1,6 +1,6 @@
 # How We Investigated Michigan Insurance Territories
 
-This repository contains data and code to reproduce the findings featured in our story "[Michigan’s 'Fair and Reasonable' Reforms Allowed Car Insurers to Charge More in Black Neighborhoods](https://mrkup.org/l5W6g)."
+This repository contains data and code to reproduce the findings featured in our story "[Michigan's 'Fair and Reasonable' Reforms Allowed Car Insurers to Charge More in Black Neighborhoods](https://mrkup.org/l5W6g)."
 
 Our methodology is described in "[How We Investigated Car Insurance Loopholes in Michigan](https://mrkup.org/wr1HV)."
 
@@ -74,3 +74,9 @@ Create and start the container by running this command in a terminal:
 > docker compose up 
 
 Copy and paste the output web address into an internet browser to open the JupyterLab development environment.
+
+# License
+
+This project is licensed under a BSD-style license. See the [LICENSE](./LICENSE) file for details.
+
+Copyright 2024, The Markup News Inc. Redistribution and use in source and binary forms, with or without modification, are permitted under the conditions described in the LICENSE file.
